@@ -2,7 +2,7 @@
 
 **Steps to run the program:**
 1. Clone repository.
-2. **cd** into **/A_Simple_ATM-master** directory.
+2. **cd** into **/A_Simple_ATM** directory.
 3. Enter command:
 ```
 ./gradlew --console plain run
@@ -13,7 +13,7 @@
 <br/>
 *(Tests only implemented for methods that don't require user input. Such methods were manually tested.)*
 1. Clone repository.
-2. **cd** into **/A_Simple_ATM-master** directory.
+2. **cd** into **/A_Simple_ATM** directory.
 3. Enter command:
 ```
 ./gradlew test
