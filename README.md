@@ -11,7 +11,7 @@
 
 **Steps to run the unit tests:**
 <br/>
-*(Tests only implemented for methods that don't require user input.)*
+*(Tests only implemented for methods that don't require user input. Such methods were manually tested.)*
 1. Clone repository.
 2. **cd** into **/A_Simple_ATM-master** directory.
 3. Enter command:
