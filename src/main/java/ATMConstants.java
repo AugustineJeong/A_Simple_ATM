@@ -57,7 +57,7 @@ public class ATMConstants {
     public static String withdrawalFailedInsufficientFundsMessage = "Error - entered amount exceeds account balance. " +
             "Failed to withdraw.";
 
-    public static String withdrawalFailedInsufficientATMFundsMessage = "Error - entered amount exceeds Program.ATM balance. " +
+    public static String withdrawalFailedInsufficientATMFundsMessage = "Error - entered amount exceeds ATM balance. " +
             "Failed to withdraw.";
 
     public static String exitMessage = "Thank you for using simple Program.ATM.\n" +
